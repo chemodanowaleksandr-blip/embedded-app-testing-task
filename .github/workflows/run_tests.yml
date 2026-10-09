@@ -26,4 +26,4 @@ jobs:
 
     - name: Run Pytest Automation Script
       run: |
-        pytest -v test_embedded_app.py
+        pytest -v test_task.py
